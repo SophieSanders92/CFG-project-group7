@@ -1,0 +1,45 @@
+H1{
+    color: #3D3B40;
+    font-weight:bolder;
+    font-family: 'Lilita One', sans-serif;
+    text-align: center;
+    font-size: 75px;
+}
+
+H3{
+    color: #525CEB;
+    font-weight: bold;
+    font-family: 'Lilita One', sans-serif;
+    font-size: 30px;
+}
+P{
+    color:#3D3B40;
+    font-family: 'Lilita One', sans-serif;
+    font-weight:300;
+    font-size: large;
+    text-align: left;
+
+}
+
+.list-group{
+    font-family: 'Lilita One', sans-serif;
+}
+
+.first-p{
+    color:#3D3B40;
+    font-family: 'Lilita One', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+
+.navbar-nav{
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Lilita One', sans-serif;
+    text-align: center;
+    padding-left: 200px;
+}
